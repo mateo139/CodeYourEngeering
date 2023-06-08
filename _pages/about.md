@@ -1,8 +1,23 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /o_mnie/
+title: "O mnie"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+⚙ I am a graduate master of engineering, but in fact the biggest satisfaction is given me by building bridges between people and technology. That's why I love analyzing data, problems and the nature of physics!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+📈 I have experience in developing IT tools for supporting sales and manufacturing processes using Excel/VBA. 
+
+🖥️ I've cooperated not only with developers of web applications, ERP system and databases (Python/C#/SQL), but also with different specializations of engineers , as well as with sales departments and business owners.
+
+❓ What can I provide in cooperation ?
+
+➡ Analytical mindset in problem-solving, proved by engineering background.
+➡ Good communication and presentation skills, proved by 9 years of experience in technical sales.
+➡ Self-motivation to work independently, systematically, and effectively, proved by present and past roles.
+➡ Self-development in the field of IT solutions, proved by great attitude to learn.
+
+Check out my recommendations to see what my contacts are saying!
+
+Connect with me, send me a DM, and let's talk.
+
+Also view my https://github.com/mateo139?
