@@ -1,9 +1,11 @@
 main:
-  - title: "Aktualności"
-    url: /aktualnosci/
-  - title: "Usługi"
-    url: /uslugi/
-  - title: "Branże"
-    url: /branze/
-  - title: "O mnie"
-    url: /o_mnie/
+  - title: "News"
+    url: /news/
+  - title: "Code Engineering"
+    url: /codeyourengineering/
+  - title: "BIM Engineering"
+    url: /bimengineering/
+  - title: "Excel Engineering"
+    url: /excellengineering/
+  - title: "About me"
+    url: /about_me/
