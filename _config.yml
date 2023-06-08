@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Mateusz Laska"
   avatar : "/assets/images/mateo2.JPG"
-  bio    : "⚙Civil Engineer | 📈 Technical analyst | 🖥️ Web calculators for Your engineering products"
+  bio    : "⚙Civil Engineer 📈 Technical analyst 🖥️ Web calculators for Your engineering products"
   links:
     - label: "www"
       icon: "fas fa-fw fa-link"
