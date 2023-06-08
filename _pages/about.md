@@ -1,6 +1,6 @@
 ---
-permalink: /o_mnie/
-title: "O mnie"
+permalink: /about_me/
+title: "About me"
 ---
 
 ⚙ I am a graduate master of engineering, but in fact the biggest satisfaction is given me by building bridges between people and technology. That's why I love analyzing data, problems and the nature of physics!
