@@ -58,11 +58,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Mateusz Laska"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Tutaj znajdziesz informację o mnie i mojej działaności informatyczno-inżynierskiej"
   links:
-    - label: "Website"
+    - label: "www"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
