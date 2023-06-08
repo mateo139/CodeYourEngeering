@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Mateusz Laska"
   avatar : "/assets/images/mateo2.JPG"
-  bio    : "Tutaj znajdziesz informację o mnie i mojej działaności informatyczno-inżynierskiej"
+  bio    : "⚙Civil Engineer | 📈 Technical analyst | 🖥️ Web calculators for Your engineering products"
   links:
     - label: "www"
       icon: "fas fa-fw fa-link"
@@ -74,15 +74,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/mateo139"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 defaults:
   # _posts
