@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Aktualności"
+    url: /aktualnosci/
+  - title: "Usługi"
+    url: /uslugi/
+  - title: "Branże"
+    url: /branze/
+  - title: "O mnie"
+    url: /o_mnie/
