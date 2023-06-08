@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Mateusz Laska"
-  avatar : "/assets/images/mateo2.jpg"
+  avatar : "/assets/images/mateo2.JPG"
   bio    : "Tutaj znajdziesz informację o mnie i mojej działaności informatyczno-inżynierskiej"
   links:
     - label: "www"
